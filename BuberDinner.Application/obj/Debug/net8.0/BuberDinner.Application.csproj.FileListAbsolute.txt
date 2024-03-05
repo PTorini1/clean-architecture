@@ -1,0 +1,12 @@
+C:\pedro\C#\clean-architecture\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.deps.json
+C:\pedro\C#\clean-architecture\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.dll
+C:\pedro\C#\clean-architecture\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.pdb
+C:\pedro\C#\clean-architecture\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\pedro\C#\clean-architecture\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.AssemblyInfoInputs.cache
+C:\pedro\C#\clean-architecture\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.AssemblyInfo.cs
+C:\pedro\C#\clean-architecture\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+C:\pedro\C#\clean-architecture\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.dll
+C:\pedro\C#\clean-architecture\BuberDinner.Application\obj\Debug\net8.0\refint\BuberDinner.Application.dll
+C:\pedro\C#\clean-architecture\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.pdb
+C:\pedro\C#\clean-architecture\BuberDinner.Application\obj\Debug\net8.0\ref\BuberDinner.Application.dll
+C:\pedro\C#\clean-architecture\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.csproj.AssemblyReference.cache
